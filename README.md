@@ -12,7 +12,7 @@
 | [**Data-Engineering-Real-Estate-Capstone**](https://github.com/Pharaohleft/North-Development-Data-Engineering-Capstone-) | MYSQL, Python, Excel  | Apartment Data Database |
 | [**Uber-Analytics-Data-Pipeline**](https://github.com/Pharaohleft/uber-analytics-data-pipeline) | GCS, MAGE Ai, Big Query | Analytics Data Pipeline |
 | [**Flight-OPS-Data-Analytics-Platform**](https://github.com/Pharaohleft/Flight-OPS-Data-Analytics-Platform) | Airflow, OpenSky API, Snowflake | Flight Data Analytics |
-| [**Real-Time Banking Data Analytics Engineering**](https://github.com/Pharaohleft/Banking-Analytics-ETL) |  | Real-time Banking Data Analytics |
+| [**Real-Time Banking Data Analytics Engineering**](https://github.com/Pharaohleft/Banking-Analytics-ETL) | PostgreSQl, Debezium, Kafka | Real-time Banking Data Analytics |
 | [**Healthcare-Azure-Data-Analytics-Engineering**](https://github.com/Pharaohleft/Healthcare-Azure-Data-Analytics-Engineering) | PySpark, Databricks | HealthCare Data Analytics Engineering |
 
 ##  Data Analytics
