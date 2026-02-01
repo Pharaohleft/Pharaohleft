@@ -9,7 +9,10 @@
 *Focus: ETL Pipelines, Cloud Infrastructure, SQL optimization*
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
-| [**Data-Engineering-Real-Estate-Capstone**](https://github.com/Pharaohleft/North-Development-Data-Engineering-Capstone-) | PostgreSQL, Python, Excel,  | Apartment Database |
+| [**Data-Engineering-Real-Estate-Capstone**](https://github.com/Pharaohleft/North-Development-Data-Engineering-Capstone-) | MYSQL, Python, Excel  | Apartment Data Database |
+| [**Uber-Analytics-Data-Pipeline**](https://github.com/Pharaohleft/uber-analytics-data-pipeline) | GCS, MAGE Ai, Big Query | Analytics Data Pipeline |
+| [**Flight-OPS-Data-Analytics-Platform**](https://github.com/Pharaohleft/Flight-OPS-Data-Analytics-Platform) | Airflow, OpenSky API, Snowflake | Flight Data Analytics |
+| [**Project Name 2**](LINK_TO_REPO) | Spark, Kafka | Real-time streaming data... |
 | [**Project Name 2**](LINK_TO_REPO) | Spark, Kafka | Real-time streaming data... |
 
 ##  Data Analytics
