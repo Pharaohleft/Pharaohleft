@@ -1,7 +1,7 @@
 
-# Hi, I'm Austin 
+# Hi, I'm Austin, Welcome to my data portfolio
 
-Welcome to my data portfolio. 
+
 
 ---
 
