@@ -9,7 +9,7 @@ Welcome to my data portfolio. Here are my projects categorized by domain:
 *Focus: ETL Pipelines, Cloud Infrastructure, SQL optimization*
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
-| [**Project Name 1**](LINK_TO_REPO) | Python, Airflow, AWS | Built an ETL pipeline for... |
+| [**Data-Engineering-Real-Estate-Capstone**](https://github.com/Pharaohleft/North-Development-Data-Engineering-Capstone-) | PostgreSQL, Python, Excel,  | Apartment Database |
 | [**Project Name 2**](LINK_TO_REPO) | Spark, Kafka | Real-time streaming data... |
 
 ##  Data Analytics
