@@ -8,7 +8,6 @@
 
 | Project Name | Tech Stack |
 | :--- | :--- |
-| [**Data-Engineering-Real-Estate-Capstone**](https://github.com/Pharaohleft/North-Development-Data-Engineering-Capstone-) | MYSQL, Python, Excel |
 | [**Uber-Analytics-Data-Pipeline**](https://github.com/Pharaohleft/uber-analytics-data-pipeline) | GCS, MAGE Ai, Big Query |
 | [**Flight-OPS-Data-Analytics-Platform**](https://github.com/Pharaohleft/Flight-OPS-Data-Analytics-Platform) | Airflow, OpenSky API, Snowflake |
 | [**Real-Time Banking Data Analytics Engineering**](https://github.com/Pharaohleft/Banking-Analytics-ETL) | PostgreSQL, Debezium, Kafka |
