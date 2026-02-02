@@ -23,13 +23,18 @@
 | [**E-Commerce-Churn-Analysis**](LINK_TO_REPO) | Python (Pandas) | Exploratory analysis of sales... |
 | [**Bank-Loan-Health-Analysis**](LINK_TO_REPO) | Python (Pandas) | Exploratory analysis of sales... |
 | [**Store-Geographical-Growth-Analysis**](LINK_TO_REPO) | Python (Pandas) | Exploratory analysis of sales... |
-  
+| [**Meta-Marketing-Data-Analysis**](LINK_TO_REPO) | Python (Pandas) | Exploratory analysis of sales... |
+| [**Healthcare-ER-Operations-Analysis**](LINK_TO_REPO) | Python (Pandas) | Exploratory analysis of sales... |
+
+ 
 ##  Power BI & Visualization
 *DAX, Data Modeling, Dashboard Design*
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
-| [**Sales Dashboard**](LINK_TO_REPO) | Power BI, DAX | [View Live Demo](LINK) - Tracking Delta vs Target... |
-| [**HR Report**](LINK_TO_REPO) | Power BI, Power Query | Employee attrition dashboard... |
+| [**Airline-Analysis**](LINK_TO_REPO) | Power BI, DAX | [View Live Demo](LINK) - Tracking Delta vs Target... |
+| [**HR-Analytics**](LINK_TO_REPO) | Power BI, Power Query | Employee attrition dashboard... |
+| [**Insurance-Risk-&-Claims**](LINK_TO_REPO) | Power BI, DAX | [View Live Demo](LINK) - Tracking Delta vs Target... |
+| [**Amazon-Sales-Dashboard**](LINK_TO_REPO) | Power BI, DAX | [View Live Demo](LINK) - Tracking Delta vs Target... |
 
 ##  Data Science & ML
 *Predictive Modeling, Scikit-Learn, TensorFlow*
