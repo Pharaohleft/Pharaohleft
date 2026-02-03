@@ -26,7 +26,7 @@
 | [**Bank-Loan-Health-Analysis**](https://github.com/Pharaohleft/Bank-Loan-Health-Analysis/blob/main/README.md) | Python (Pandas) |
 | [**Store-Geographical-Growth-Analysis**](https://github.com/Pharaohleft/Store-Geographical-Growth-Analysis) | Python (Pandas) |
 | [**Meta-Marketing-Data-Analysis**](LINK_TO_REPO) | Python (Pandas) |
-| [**Healthcare-ER-Operations-Analysis**](LINK_TO_REPO) | Python (Pandas) |
+| [**Healthcare-ER-Operations-Analysis**](https://github.com/Pharaohleft/Healthcare-ER-Operations-Analysis/blob/main/README.md) | Python (Pandas) |
 
 <br>
 
