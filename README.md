@@ -38,7 +38,7 @@ https://pharaohleft.github.io
 
 | Project Name | Tech Stack |
 | :--- | :--- |
-| [**NBA-Roster-Optimization-Using-ML**](LINK_TO_REPO) | Python, Scikit-Learn |
+| [**Cost-Efficient Asset Replacement Using Unsupervised Learning**](LINK_TO_REPO) | Python, Scikit-Learn |
 | [**E-Commerce-Customer-Behaviour-Analysis-Using-ML**](LINK_TO_REPO) | PyTorch |
 
 
