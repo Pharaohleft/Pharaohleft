@@ -55,4 +55,4 @@ https://pharaohleft.github.io
 </details>
 
 
-- Web Apps - https://huggingface.co/pharaohleft/spaces
+- Hosted Applications - https://huggingface.co/pharaohleft/spaces
