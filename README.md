@@ -1,11 +1,28 @@
 
 # Hi there! Welcome to my Github Profile! 👋
 I am Austin and I am interested in all things data. I am currently working as a Volunteer Data Analyst and located in Chicago, IL. In my free time, I like to read, hike, play basketball, and explore different music genres every morning (In no particular order).
-- Check out my Portfolio for all of my projects, micro-projects, skills & certificates.
+- Check out my projects, micro-projects, skills & certificates.
 - austinabraham49@icloud.com 
 - https://www.linkedin.com/in/austinabrahamm/
+https://www.instagram.com/boothepharaoh/
+<div align="center">
 
+  <a href="mailto:austinabraham49@icloud.com">
+    <img src="https://cdn.simpleicons.org/gmail/000000" height="40" alt="Email" style="margin: 0 10px;" />
+  </a>
+  <a href="https://github.com/Pharaohleft">
+    <img src="https://cdn.simpleicons.org/github/000000" height="40" alt="GitHub" style="margin: 0 10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/austinabrahamm">
+    <img src="https://cdn.simpleicons.org/linkedin/000000" height="40" alt="LinkedIn" style="margin: 0 10px;" />
+  </a>
+  <a href="https://instagram.com/boothepharaoh">
+    <img src="https://cdn.simpleicons.org/instagram/000000" height="40" alt="Instagram" style="margin: 0 10px;" />
+  </a>
 
+  <p>The best way to contact me is through email.</p>
+
+</div>
 - - -
 
 ## Data Engineering
