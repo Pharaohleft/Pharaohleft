@@ -4,6 +4,16 @@ I am Austin and I am interested in all things data. I am currently working as a 
 - Check out my Portfolio for all of my projects, micro-projects, skills & certificates.
 - Contact - austinabraham49@icloud.com 
 - Linkedin - https://www.linkedin.com/in/austinabrahamm/
+
+  <details>
+  <summary><b>📜 Click to expand my Certificates (10)</b></summary>
+  <br> <ul>
+    <li><b>AWS Certified Solutions Architect</b> - <i>2024</i></li>
+    <li><b>Google Data Analytics</b> - <a href="YOUR_LINK_HERE">View Credential</a></li>
+    <li><b>Meta Front-End Developer</b></li>
+    <li>(Paste the rest of your certificates here...)</li>
+  </ul>
+</details>
 - - -
 
 ## Data Engineering
