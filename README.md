@@ -38,7 +38,7 @@ https://pharaohleft.github.io
 
 | Project Name | Tech Stack |
 | :--- | :--- |
-| [**Cost-Efficient Asset Replacement Using Unsupervised Learning**](LINK_TO_REPO) | Python, Scikit-Learn |
+| [**Cost-Efficient Asset Replacement Using Unsupervised Learning**](https://github.com/Pharaohleft/Cost-Efficient-Asset-Replacement-using-unsupervised-learning) | Python, Scikit-Learn |
 | [**customer-lifetime-value-and-churn-modeling**](https://github.com/Pharaohleft/customer-lifetime-value-and-churn-modeling) | PyTorch |
 
 
