@@ -25,8 +25,8 @@ Check out my projects, micro-projects, skills & certificates.
   <p>The best way to contact me is through email.</p>
 
 </div>
----
 
+---
 ## Data Engineering
 
 | Project Name | Tech Stack |
