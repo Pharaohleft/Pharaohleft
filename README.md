@@ -20,7 +20,7 @@
 
 | Project Name | Tech Stack |
 | :--- | :--- |
-| [**NBA-Roster-Optimization-Analysis**](https://github.com/Pharaohleft/NBA-Roster-Optimization-Analysis) | SQL, Excel, Python|
+| [**Cost-Efficient-Asset-Replacement-Analysis**](https://github.com/Pharaohleft/NBA-Roster-Optimization-Analysis) | SQL, Excel, Python|
 | [**Customer-Churn-Analysis**](https://github.com/Pharaohleft/Customer-Value-Segmentation-Analysis) | Python (Pandas) |
 | [**Bank-Loan-Health-Analysis**](https://github.com/Pharaohleft/Bank-Loan-Health-Analysis/blob/main/README.md) | Python (Pandas) |
 | [**Store-Geographical-Growth-Analysis**](https://github.com/Pharaohleft/Store-Geographical-Growth-Analysis) | Python (Pandas) |
