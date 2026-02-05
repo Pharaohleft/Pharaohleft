@@ -38,11 +38,15 @@ Check out my projects, micro-projects, skills & certificates.
 | [**Store-Geographical-Growth-Analysis**](https://github.com/Pharaohleft/Store-Geographical-Growth-Analysis) | Python (Pandas) |
 | [**Meta-Marketing-Data-Analysis**](https://github.com/Pharaohleft/Meta-Marketing-Data-Analysis/blob/main/README.md) | Python (Pandas) |
 | [**Healthcare-ER-Operations-Analysis**](https://github.com/Pharaohleft/Healthcare-ER-Operations-Analysis/blob/main/README.md) | Python (Pandas) |
+
 <br>
 
 ## Business Intelligence 
 https://pharaohleft.github.io
+
+
 <br>
+
 ## Data Engineering
 
 | Project Name | Tech Stack |
