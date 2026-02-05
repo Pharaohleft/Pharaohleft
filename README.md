@@ -40,6 +40,7 @@ Check out my projects, micro-projects, skills & certificates.
 | [**Healthcare-ER-Operations-Analysis**](https://github.com/Pharaohleft/Healthcare-ER-Operations-Analysis/blob/main/README.md) | Python (Pandas) |
 
 <br>
+
 ## Data Engineering
 
 | Project Name | Tech Stack |
