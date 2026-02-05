@@ -32,12 +32,60 @@ Check out my projects, micro-projects, skills & certificates.
 
 ## Data Analysis
 
-| Project Name | Tech Stack |
-| :--- | :--- |
-| [**Bank-Loan-Health-Analysis**](https://github.com/Pharaohleft/Bank-Loan-Health-Analysis/blob/main/README.md) | Python (Pandas) |
-| [**Store-Geographical-Growth-Analysis**](https://github.com/Pharaohleft/Store-Geographical-Growth-Analysis) | Python (Pandas) |
-| [**Meta-Marketing-Data-Analysis**](https://github.com/Pharaohleft/Meta-Marketing-Data-Analysis/blob/main/README.md) | Python (Pandas) |
-| [**Healthcare-ER-Operations-Analysis**](https://github.com/Pharaohleft/Healthcare-ER-Operations-Analysis/blob/main/README.md) | Python (Pandas) |
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Data Analysis</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Project Name</th>
+            <th>Tech Stack</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/Pharaohleft/Bank-Loan-Health-Analysis/blob/main/README.md"><strong>Bank-Loan-Health-Analysis</strong></a></td>
+            <td>Python (Pandas)</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Pharaohleft/Store-Geographical-Growth-Analysis"><strong>Store-Geographical-Growth-Analysis</strong></a></td>
+            <td>Python (Pandas)</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Pharaohleft/Meta-Marketing-Data-Analysis/blob/main/README.md"><strong>Meta-Marketing-Data-Analysis</strong></a></td>
+            <td>Python (Pandas)</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Pharaohleft/Healthcare-ER-Operations-Analysis/blob/main/README.md"><strong>Healthcare-ER-Operations-Analysis</strong></a></td>
+            <td>Python (Pandas)</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Personal Lab & Interests</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Project Name</th>
+            <th>Tech Stack</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="(https://github.com/Pharaohleft/Cost-Efficient-Asset-Replacement-Analysis)"><strong>Cost-Efficient-Asset-Replacement-Analysis</strong></a></td>
+            <td>Python</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Pharaohleft/Customer-Value-Segmentation-Analysis"><strong>Customer-Value-Segmentation-Analysis</strong></a></td>
+            <td>Python</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <br>
 
