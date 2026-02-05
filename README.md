@@ -5,7 +5,7 @@ I am Austin and I am interested in all things data. I am currently working as a 
 <br>
 Check out my projects, micro-projects, skills & certificates.
 
----
+
 <div align="center">
 
   <a href="mailto:austinabraham49@icloud.com">
