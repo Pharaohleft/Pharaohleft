@@ -56,6 +56,8 @@ Check out my projects, micro-projects, skills & certificates.
 ## Business Intelligence 
 https://pharaohleft.github.io
 
+---
+
 <br>
 
   <details>
