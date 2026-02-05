@@ -40,7 +40,7 @@ Check out my projects, micro-projects, skills & certificates.
 
 <br>
 
-## Data Analytics
+## Data Analysis
 
 | Project Name | Tech Stack |
 | :--- | :--- |
