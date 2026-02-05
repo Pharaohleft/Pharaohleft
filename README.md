@@ -12,10 +12,6 @@ Check out my projects, micro-projects, skills & certificates.
     <img src="https://img.icons8.com/ios-filled/50/000000/mail.png" height="40" alt="Email" style="margin: 0 10px;" />
   </a>
 
-  <a href="https://github.com/Pharaohleft">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" height="40" alt="GitHub" style="margin: 0 10px;" />
-  </a>
-
   <a href="https://www.linkedin.com/in/austinabrahamm/">
     <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" height="40" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
