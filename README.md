@@ -66,7 +66,7 @@ https://pharaohleft.github.io
 | [**customer-lifetime-value-and-churn-modeling**](https://github.com/Pharaohleft/customer-lifetime-value-and-churn-modeling) | PyTorch |
 
   <details>
-  <summary><b>📜 Click to expand my Certificates (10)</b></summary>
+  <summary><b> Click to expand my Certificates (10)</b></summary>
   <br> <ul>
     <li><b>AWS Certified Solutions Architect</b> - <i>2024</i></li>
     <li><b>Google Data Analytics</b> - <a href="YOUR_LINK_HERE">View Credential</a></li>
