@@ -74,7 +74,7 @@ Check out my projects, micro-projects, skills & certificates.
         </thead>
         <tbody>
           <tr>
-            <td><a href="(https://github.com/Pharaohleft/Cost-Efficient-Asset-Replacement-Analysis)"><strong>Cost-Efficient-Asset-Replacement-Analysis</strong></a></td>
+            <td><a href="https://github.com/Pharaohleft/Cost-Efficient-Asset-Replacement-Analysis"><strong>Cost-Efficient-Asset-Replacement-Analysis</strong></a></td>
             <td>Python</td>
           </tr>
           <tr>
