@@ -122,7 +122,7 @@ Check out my projects, micro-projects, skills & certificates.
 
 
   <details>
-  <summary><b> Certificates </b></summary>
+  <summary><h3> Certificates <h3></summary>
   <br> <ul>
     <li><b>Career Essentials in Generative AI by Microsoft and LinkedIn</b></li>
     <li><b>Generative AI Professional Certificate by Snowflake</b></li>
