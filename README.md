@@ -86,6 +86,8 @@ Check out my projects, micro-projects, skills & certificates.
 
 ## Data Engineering
 
+| | |
+| :--- | :--- |
 | [**Uber-Analytics-Data-Pipeline**](https://github.com/Pharaohleft/uber-analytics-data-pipeline) | GCS, MAGE Ai, Big Query |
 | [**Flight-OPS-Data-Analytics-Platform**](https://github.com/Pharaohleft/Flight-OPS-Data-Analytics-Platform) | Airflow, OpenSky API, Snowflake |
 | [**Real-Time Banking Data Analytics Engineering**](https://github.com/Pharaohleft/Banking-Analytics-ETL) | PostgreSQL, Debezium, Kafka |
@@ -102,6 +104,9 @@ Check out my projects, micro-projects, skills & certificates.
 
 ## Data Science
 
+
+| | |
+| :--- | :--- |
 | [**Cost-Efficient-Asset-Replacement-using-unsupervised-learning**](https://github.com/Pharaohleft/Cost-Efficient-Asset-Replacement-Analysis) | Python, NBA Api, Beautifulsoup, PCA |
 | [**Customer-lifetime-value-and-churn-modeling**](https://github.com/Pharaohleft/Customer-Value-Segmentation-Analysis) | K-Means, RFM|
 | [**Mushroom-Regression-Analysis**](https://github.com/Pharaohleft/Mushroom-Regression-Analysis) | Logistic Regression|
