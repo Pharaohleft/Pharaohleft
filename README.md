@@ -38,8 +38,6 @@ Check out my projects, micro-projects, skills & certificates.
       <table>
         <thead>
           <tr>
-            <th>Project Name</th>
-            <th>Tech Stack</th>
           </tr>
         </thead>
         <tbody>
@@ -63,7 +61,7 @@ Check out my projects, micro-projects, skills & certificates.
       </table>
     </td>
     <td valign="top" width="50%">
-      <h3>Personal Lab & Interests</h3>
+      <h3>Personal Interests</h3>
       <table>
         <thead>
           <tr>
