@@ -65,8 +65,6 @@ Check out my projects, micro-projects, skills & certificates.
       <table>
         <thead>
           <tr>
-            <th>Project Name</th>
-            <th>Tech Stack</th>
           </tr>
         </thead>
         <tbody>
@@ -88,7 +86,6 @@ Check out my projects, micro-projects, skills & certificates.
 
 ## Data Engineering
 
-| Project Name | Tech Stack |
 | :--- | :--- |
 | [**Uber-Analytics-Data-Pipeline**](https://github.com/Pharaohleft/uber-analytics-data-pipeline) | GCS, MAGE Ai, Big Query |
 | [**Flight-OPS-Data-Analytics-Platform**](https://github.com/Pharaohleft/Flight-OPS-Data-Analytics-Platform) | Airflow, OpenSky API, Snowflake |
@@ -106,7 +103,6 @@ Check out my projects, micro-projects, skills & certificates.
 
 ## Data Science
 
-| Project Name | Tech Stack |
 | :--- | :--- |
 | [**Cost-Efficient-Asset-Replacement-using-unsupervised-learning**](https://github.com/Pharaohleft/Cost-Efficient-Asset-Replacement-Analysis) | Python, NBA Api, Beautifulsoup, PCA |
 | [**Customer-lifetime-value-and-churn-modeling**](https://github.com/Pharaohleft/Customer-Value-Segmentation-Analysis) | K-Means, RFM|
