@@ -83,6 +83,7 @@ Check out my projects, micro-projects, skills & certificates.
 </table>
 
 <br>
+
 ---
 
 ## Data Engineering
