@@ -107,7 +107,7 @@ https://pharaohleft.github.io
 
 ---
 
-## Data Science Projects
+## Data Science
 
 | Project Name | Tech Stack |
 | :--- | :--- |
@@ -116,6 +116,10 @@ https://pharaohleft.github.io
 
 <br>
 
+#### Hosted Applications - https://huggingface.co/pharaohleft/spaces
+
+  <br>
+  
   <details>
   <summary><b> Certificates </b></summary>
   <br> <ul>
@@ -133,4 +137,4 @@ https://pharaohleft.github.io
 </details>
 
 
-#### Hosted Applications - https://huggingface.co/pharaohleft/spaces
+
