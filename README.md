@@ -74,12 +74,12 @@ Check out my projects, micro-projects, skills & certificates.
         </thead>
         <tbody>
           <tr>
-            <td><a href="https://github.com/Pharaohleft/Cost-Efficient-Asset-Replacement-Analysis"><strong>Cost-Efficient-Asset-Replacement-Analysis</strong></a></td>
-            <td>Python, K-Means, PCA</td>
+            <td><a href="https://github.com/Pharaohleft/Cost-Efficient-Asset-Replacement-Analysis"><strong>Asset-Replacement-Analysis</strong></a></td>
+            <td>K-Means, PCA</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Pharaohleft/Customer-Value-Segmentation-Analysis"><strong>Customer-Value-Segmentation-Analysis</strong></a></td>
-            <td>Python, RFM, K-means</td>
+            <td><a href="https://github.com/Pharaohleft/Customer-Value-Segmentation-Analysis"><strong>Customer-Value-Analysis</strong></a></td>
+            <td>RFM, K-means</td>
           </tr>
         </tbody>
       </table>
