@@ -35,7 +35,6 @@ Check out my projects, micro-projects, skills & certificates.
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>Data Analysis</h3>
       <table>
         <thead>
           <tr>
