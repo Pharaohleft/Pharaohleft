@@ -102,6 +102,12 @@ Check out my projects, micro-projects, skills & certificates.
 
 ## [Business Intelligence](https://pharaohleft.github.io) 
 
+| Project Name | Stack |
+| :--- | :--- |
+| [**Bank-Loan-Health-Analysis**](https://github.com/Pharaohleft/Bank-Loan-Health-Analysis/blob/main/README.md) | Power BI |
+| [**Store-Geographical-Growth-Analysis**](https://github.com/Pharaohleft/Store-Geographical-Growth-Analysis) | Power BI |
+| [**Meta-Marketing-Data-Analysis**](https://github.com/Pharaohleft/Meta-Marketing-Data-Analysis/blob/main/README.md) | Power BI |
+| [**Healthcare-ER-Operations-Analysis**](https://github.com/Pharaohleft/Healthcare-ER-Operations-Analysis/blob/main/README.md) | Power BI |
 <br>
 
 ---
