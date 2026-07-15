@@ -5,12 +5,12 @@ I am Austin. I am interested in all things Ai & data. I am currently working as 
 In my free time, I like to read, hike, play basketball, travel, wrestle and explore different music genres every morning (In no particular order).
 <br>
 
-<b>Everything in blue is clickable.<b>
+                                                <b>Everything in blue is clickable.<b>
 
 
 <br>
 
-## [My Hosted Applications](https://huggingface.co/pharaohleft/spaces)
+                                        ## [My Hosted Applications](https://huggingface.co/pharaohleft/spaces)
 
 
   <details>
