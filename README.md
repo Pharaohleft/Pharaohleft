@@ -9,6 +9,24 @@ Check out my projects, micro-projects, skills & certificates.
 
 <br>
 
+## [My Hosted Applications](https://huggingface.co/pharaohleft/spaces)
+
+
+  <details>
+  <summary><h2> Certificates <h2></summary>
+  <br> <ul>
+    <li><b>Career Essentials in Generative AI by Microsoft and LinkedIn</b></li>
+    <li><b>Generative AI Professional Certificate by Snowflake</b></li>
+    <li><b>Product Management Professional Certificate by AHA!</b></li>
+    <li><b>Data Engineering Professional Certificate by Snowflake</b></li>
+    <li><b>Atlassian Agile Project Management Professional Certificate</li>
+    <li><b>Data Science Professional Certificate by KNIME</li>
+    <li><b>Six Sigma Green Belt</li>
+    <li><b>Career Essentials in Data Analysis by Microsoft and LinkedIn</li>
+    <li><b>CSCMP Supply Chain Foundations: Inventory Management Professional Certificate</li>
+    <li><b>Data Engineering Foundations Professional Certificate by Astronomer</li>
+  </ul>
+</details>
 
 <div align="center">
 
@@ -20,7 +38,7 @@ Check out my projects, micro-projects, skills & certificates.
     <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" height="40" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
 
-  <a href="https://www.instagram.com/boothepharaoh/">
+  <a href="https://www.instagram.com/2thepharaoh/">
     <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" height="40" alt="Instagram" style="margin: 0 10px;" />
   </a>
 
@@ -134,12 +152,12 @@ Check out my projects, micro-projects, skills & certificates.
     <li><b>Generative AI Professional Certificate by Snowflake</b></li>
     <li><b>Product Management Professional Certificate by AHA!</b></li>
     <li><b>Data Engineering Professional Certificate by Snowflake</b></li>
-    <li>Atlassian Agile Project Management Professional Certificate</li>
-    <li>Data Science Professional Certificate by KNIME</li>
-    <li>Six Sigma Green Belt</li>
-    <li>Career Essentials in Data Analysis by Microsoft and LinkedIn</li>
-    <li>CSCMP Supply Chain Foundations: Inventory Management Professional Certificate</li>
-    <li>Data Engineering Foundations Professional Certificate by Astronomer</li>
+    <li><b>Atlassian Agile Project Management Professional Certificate</li>
+    <li><b>Data Science Professional Certificate by KNIME</li>
+    <li><b>Six Sigma Green Belt</li>
+    <li><b>Career Essentials in Data Analysis by Microsoft and LinkedIn</li>
+    <li><b>CSCMP Supply Chain Foundations: Inventory Management Professional Certificate</li>
+    <li><b>Data Engineering Foundations Professional Certificate by Astronomer</li>
   </ul>
 </details>
 
