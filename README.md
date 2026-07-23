@@ -1,5 +1,5 @@
 
-# Hi there! Welcome to my Github Profile! 👋
+# Hi there! Welcome to my Github Profile! 
 
 I am Austin. I am interested in all things Ai & data. I am currently working as an Ai Data Analyst for JLL Audit in Chicago, IL.  <br>
 In my free time, I like to read, hike, play basketball, travel, wrestle and explore different music genres every morning (In no particular order).
@@ -39,9 +39,6 @@ In my free time, I like to read, hike, play basketball, travel, wrestle and expl
     <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" height="40" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
 
-  <a href="https://www.instagram.com/2thepharaoh/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" height="40" alt="Instagram" style="margin: 0 10px;" />
-  </a>
 
   <p>The best way to contact me is through email.</p>
 
