@@ -1,5 +1,5 @@
 
-# Hi there! Welcome to my Github Profile! 
+# Hi there! 
 
 I am Austin. I am interested in all things Ai & data. I am currently working as an Ai Data Analyst for JLL Audit in Chicago, IL.  <br>
 In my free time, I like to read, hike, play basketball, travel, wrestle and explore different music genres every morning (In no particular order).
