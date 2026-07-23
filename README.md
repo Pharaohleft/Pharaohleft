@@ -1,8 +1,9 @@
 
 # Hi there! 
 
-I am Austin. I am interested in all things Ai & data. I am currently working as an Ai Data Analyst for JLL Audit in Chicago, IL.  <br>
-In my free time, I like to read, hike, play basketball, travel, wrestle and explore different music genres every morning (In no particular order).
+I'm Austin, an AI Data Analyst with JLL Audit in Chicago. I work with AI and data analytics, which is pretty much what I'm into anyway—technology, data, and figuring out how it all connects.
+
+When I'm not working, I read, hike, play basketball, wrestle, and travel when I can. I've also gotten into the habit of exploring a different music genre every morning. It's a solid way to start the day and keeps things interesting.
 <br>
 
                                                 Everything in blue is clickable.
