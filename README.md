@@ -11,6 +11,21 @@ When I'm not working, I read, hike, play ball, wrestle, and travel when I can. I
 
 <br>
 
+<div align="center">
+
+  <a href="mailto:austinabraham49@icloud.com">
+    <img src="https://img.icons8.com/ios-filled/50/000000/mail.png" height="40" alt="Email" style="margin: 0 10px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/austinabrahamm/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" height="40" alt="LinkedIn" style="margin: 0 10px;" />
+  </a>
+
+
+  <p>The best way to contact me is through email.</p>
+
+</div>
+
 # [MY HOSTED APPs](https://huggingface.co/pharaohleft/spaces)
 
 
@@ -30,20 +45,6 @@ When I'm not working, I read, hike, play ball, wrestle, and travel when I can. I
   </ul>
 </details>
 
-<div align="center">
-
-  <a href="mailto:austinabraham49@icloud.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/mail.png" height="40" alt="Email" style="margin: 0 10px;" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/austinabrahamm/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" height="40" alt="LinkedIn" style="margin: 0 10px;" />
-  </a>
-
-
-  <p>The best way to contact me is through email.</p>
-
-</div>
 
 ---
 
