@@ -10,11 +10,11 @@ In my free time, I like to read, hike, play basketball, travel, wrestle and expl
 
 <br>
 
-# [My Hosted Applications](https://huggingface.co/pharaohleft/spaces)
+# [MY HOSTED APPs](https://huggingface.co/pharaohleft/spaces)
 
 
   <details>
-  <summary><h2> Certificates <h2></summary>
+  <summary><h2> CERTIFICATIONS <h2></summary>
   <br> <ul>
     <li><b>Career Essentials in Generative AI by Microsoft and LinkedIn</b></li>
     <li><b>Generative AI Professional Certificate by Snowflake</b></li>
