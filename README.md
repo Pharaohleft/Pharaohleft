@@ -6,7 +6,7 @@ I'm Austin, an AI Data Analyst with JLL Audit in Chicago. I work with AI and dat
 When I'm not working, I read, hike, play ball, wrestle, and travel when I can. I've also gotten into the habit of exploring a different music genre every morning. It's a solid way to start the day and keeps things interesting.
 <br>
 
-                                                                                                          Blue texts are clickable
+                                                                                                        Blue texts are clickable
 
 
 <br>
